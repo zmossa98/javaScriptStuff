@@ -1,0 +1,2 @@
+# javaScriptStuff
+training for javascript
